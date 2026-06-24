@@ -13,7 +13,10 @@
 - [wasm-mcp](https://github.com/xyzzylabs/wasm-mcp) -> WebAssembly specs as queryable data
 
 **coordinates**
-language specs, JS engines, AI runtimes, edge hosts, MCP
+- language specs
+- JS engines
+- AI runtimes
+- civic data
 
 **principles**
 - observability first, automation second
