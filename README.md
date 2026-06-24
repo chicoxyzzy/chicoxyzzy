@@ -14,7 +14,7 @@
 
 **coordinates**
 - language specs
-- JS engines
+- VMs, compilers
 - AI runtimes
 - civic data
 
