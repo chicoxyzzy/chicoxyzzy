@@ -7,7 +7,7 @@
 **coordinates**
 - language specs
 - VMs, compilers
-- AI tooling
+- AI tooling and infra
 - civic data
 
 **principles**
