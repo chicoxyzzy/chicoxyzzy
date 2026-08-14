@@ -15,11 +15,11 @@
 **coordinates**
 - language specs
 - VMs, compilers
-- AI runtimes
+- AI tooling
 - civic data
 
 **principles**
 - observability first, automation second
 - make specs queryable and testable
-- keep failure modes boring and debuggable
-- let machines handle the paperwork; keep the care human
+- let machines handle the paperwork
+- keep the care human
